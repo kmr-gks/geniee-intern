@@ -41,3 +41,8 @@ cd ./{プロジェクト名}
 ```
 npm start
 ```
+
+
+```
+npm install fullcalendar
+```
